@@ -1,101 +1,140 @@
 Dr. Mulugeta Gebremariam Tadele
 
-Medical Doctor | Public Health Researcher | Data Science Enthusiast | Health Entrepreneur
+Medical Doctor | Public Health Researcher | Data Scientist | Health Innovator
 
-I am a medical doctor and public health researcher with strong interests in epidemiology, data science, and digital health innovation. I am currently working as an Associate Researcher at Armauer Hansen Research Institute, contributing to research on non-communicable diseases and clinical studies.
+I am a physician and public health researcher currently working at Armauer Hansen Research Institute, focusing on non-communicable diseases, clinical research, and applied health data science.
 
-My work focuses on applying data-driven approaches to improve healthcare systems, disease surveillance, and evidence-based decision-making in low-resource settings.
+My goal is to leverage data, AI, and epidemiological methods to improve healthcare delivery and evidence-based decision-making in low-resource settings.
+
+GitHub Analytics
 
 About Me
 
-Associate Researcher at Armauer Hansen Research Institute
+Associate Researcher – Armauer Hansen Research Institute
 
-MPH in Public Health & MPH in Public Health Data Science at Addis Ababa University
+MPH (Public Health) & MPH (Public Health Data Science) – Addis Ababa University
 
-Medical Doctor from St. Paul Hospital Millennium Medical College
+Medical Doctor – St. Paul Hospital Millennium Medical College
 
-CEO & Co-Founder of Better Life Homebased Healthcare
+CEO – Better Life Homebased Healthcare
 
-Partnership Manager at BINA Products (women-led eco-friendly sanitary products initiative)
+Partnership Manager – BINA Products
 
-I am passionate about:
+I work at the intersection of:
 
-Clinical and public health research
+Epidemiology
 
-Health data science and AI applications in healthcare
+Data Science
 
-Digital health and innovation ecosystems
+Clinical Research
 
-Health systems strengthening in Africa
+Digital Health Innovation
+
+Health Systems Strengthening
 
 Research Interests
 
-Non-communicable diseases (Cancer, Cardiovascular diseases)
+Non-communicable diseases (Cancer, CVDs)
 
-Survival analysis and advanced biostatistics
+Survival Analysis & Advanced Biostatistics
 
-Clinical trials and implementation research
+Clinical Trials & Implementation Science
 
-Maternal and child health
+Maternal and Child Health
 
-Climate and health
+Climate & Health
 
-AI and machine learning in public health
+Artificial Intelligence in Healthcare
 
 Technical Skills
-
-Programming & Data
+Programming
 
 R / RStudio
 
-Python (basic)
+Python (Basic)
 
 SPSS
 
-Excel (Advanced analytics)
+Statistical Methods
 
-Methods
+Logistic Regression
 
-Logistic regression
+Survival Analysis
 
-Survival analysis
+Multivariable Modeling
 
-Epidemiological modeling
+Machine Learning (Applied)
 
-Data visualization
+Data Tools
 
-Tools
+Excel Advanced Analytics
 
-Git & GitHub
+Power BI (Basic)
 
-LaTeX (basic)
+Data Visualization in R
 
-Power BI (basic)
+Featured Projects
+Public Health Data Analysis in R
 
-Current Projects
+Survival analysis models
 
-Clinical and epidemiological research on NCDs
+Logistic regression for burnout and mental health datasets
 
-Data analysis using R for public health datasets
+Automated data cleaning pipelines
 
-Digital health and health innovation initiatives
+Clinical Research & Evidence Generation
 
-Evidence generation for health system strengthening
+Clinical datasets for NCD risk modeling
+
+Implementation research workflows
+
+Research reproducibility using R scripts
+
+Digital Health & Innovation
+
+Data-driven health decision tools
+
+AI-assisted public health workflows
+
+Health startup analytics applications
+
+Publications (Coming Soon)
+
+Clinical and epidemiological studies on NCDs
+
+Implementation research manuscripts
+
+Public health data science applications
+
+(You can later add DOI links or Google Scholar profile here.)
+
+Current Focus Areas (2025–2027)
+
+AI applications in epidemiology
+
+Clinical trial data analytics
+
+Climate-sensitive disease modeling
+
+Health innovation ecosystems in Africa
 
 Collaboration
 
 I am open to collaboration in:
 
-Public health research projects
+Public health research
 
-Data science applications in healthcare
+Clinical data analysis
 
-Clinical research and trials
+AI in healthcare projects
 
-Digital health innovation initiatives
+Digital health innovation
+
+Multicountry research consortia
 
 Contact
 
 Email: mulugeta.tadele@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/mulugeta-gebremariam-tadele-713573143/
+LinkedIn:
+https://www.linkedin.com/in/mulugeta-gebremariam-tadele-713573143/
