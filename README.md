@@ -106,8 +106,6 @@ Implementation research manuscripts
 
 Public health data science applications
 
-(You can later add DOI links or Google Scholar profile here.)
-
 Current Focus Areas (2025–2027)
 
 AI applications in epidemiology
